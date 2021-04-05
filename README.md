@@ -1,20 +1,20 @@
-#YouTube Video Downloader :fa-download:
+YouTube Video Downloader :fa-download:
 
 ###### This EXE App Is Writte In Python And You Get The Source And the Softwere Itself Up In My Github 
 
 ------------
 
-#Is It Safe? :fa-search-plus:
+Is It Safe? :fa-search-plus:
 ####Yes, You Pc is 100% Safe You Can Check The Code Your Self 
 
 ------------
 
-#The Raw Code Or The EXE? :fa-exclamation-circle:
+The Raw Code Or The EXE? :fa-exclamation-circle:
 ####The EXE Coz It Is Easy To Setup+Fast
 
 ------------
 
-#Where is my downloads? :fa-tasks:
+Where is my downloads? :fa-tasks:
 They Are In Your `Videos` Folder 
 
 ------------
@@ -24,7 +24,7 @@ Google Drive Link For EXE - https://drive.google.com/file/d/19ZT7u1FoFEWoZUmtyBl
 ------------
 
 
-#RawCode
+RawCode
 ```python
 import pytube
 from pytube.cli import on_progress
